@@ -4,9 +4,9 @@ Hi 👋 My name is Jerson Gil
 Web Delevopment
 ---------------
 
-🌍  I'm based in Barquisimeto Estado Lara, Venezuela*
-✉️  You can contact me at [jersongil21@gmail.com](mailto:jersongil21@gmail.com)*
-🧠  I'm learning React And React-Native
+*   🌍  I'm based in Barquisimeto Estado Lara, Venezuela
+*   ✉️  You can contact me at [jersongil21@gmail.com](mailto:jersongil21@gmail.com)
+*   🧠  I'm learning React, React-Native
 
 <a href="https://www.twitter.com/JersonVnzl" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JersonVnzl?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
